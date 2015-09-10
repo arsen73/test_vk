@@ -1,0 +1,20 @@
+<resources>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="app_name">Vk</string>
+    <integer name="com_vk_sdk_AppId">5064247</integer>
+    <string name="button_login">Login Вконтакте</string>
+    <string name="button_sendMessage">ОК</string>
+    <string name="method">Добавить фото из:</string>
+    <string name="error_login">Ошибка авторизации</string>
+    <string name="error_token">AccessToken не верный</string>
+    <string name="error_empty_friends_list">Список друзей пустой</string>
+    <string name="error_file_attach">Ошибка при добавлении файла</string>
+    <string name="error_file_upload">Ошибка загрузки файла</string>
+    <string name="error_send_message">Ошибка отправки сообщения</string>
+    <string name="success_send_message">Сообщение успешно отправлено</string>
+    <string name="camera">Камера</string>
+    <string name="gallery">Галерея</string>
+    <string name="cancel">отмена</string>
+</resources>
